@@ -1,0 +1,38 @@
+{
+    "next_number": 1004,
+    "accounts": [
+        {
+            "account_no": "1001",
+            "account_name": "Ankit Maurya",
+            "pin": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "balance": 45000.0,
+            "transactions": [
+                "[14-07-2026 10:05:32] Account created for Ankit Maurya"
+            ],
+            "account_type": "Current Account",
+            "overdraft_limit": 1000
+        },
+        {
+            "account_no": "1002",
+            "account_name": "Govind Chandra Gaharwar",
+            "pin": "8b01315e403fc6491b9913a552cf8ff5ee954c14ad3207898db1ccf318cd9ba3",
+            "balance": 6900000.0,
+            "transactions": [
+                "[14-07-2026 10:06:30] Account created for Govind Chandra Gaharwar"
+            ],
+            "account_type": "Savings Account",
+            "interest_rate": 4.0
+        },
+        {
+            "account_no": "1003",
+            "account_name": "Ayush Mishra",
+            "pin": "db2e7f1bd5ab9968ae76199b7cc74795ca7404d5a08d78567715ce532f9d2669",
+            "balance": 55000.0,
+            "transactions": [
+                "[14-07-2026 10:30:34] Account created for Ayush Mishra"
+            ],
+            "account_type": "Savings Account",
+            "interest_rate": 4.0
+        }
+    ]
+}
